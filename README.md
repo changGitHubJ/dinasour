@@ -48,6 +48,8 @@ compile and execute configurate.cpp to create following files:
 
 **If you have troublesome in the procedures above, please download the files from:**
 
+[data_set](https://drive.google.com/file/d/17exNvgD2nvPTOZ-iObMcXrOp90_7duVA/view?usp=sharing])
+
 4. Build library  
 To build library, operate as:
 
